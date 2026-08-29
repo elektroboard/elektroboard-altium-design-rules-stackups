@@ -1,4 +1,4 @@
-﻿---
+---
 name: Feature request
 about: Suggest a new rule, stackup, documentation improvement, or enhancement
 title: "[FEATURE] "

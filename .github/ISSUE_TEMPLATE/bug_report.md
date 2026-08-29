@@ -1,4 +1,4 @@
-﻿---
+---
 name: Bug report
 about: Report an Altium rule, stackup, import, or documentation problem
 title: "[BUG] "
