@@ -1,0 +1,30 @@
+ELEKTROBOARD STACKUP VALIDATION
+===========================
+
+2L copper + dielectric: 1.5700 mm
+4L copper + dielectric: 1.5700 mm
+6L copper + dielectric: 1.6000 mm
+
+NOTE:
+These are nominal engineering constructions.
+Finished board thickness is a manufacturing specification and includes
+process tolerances and other effects; it should not be interpreted as the
+simple arithmetic sum of the nominal model layers in every fabrication process.
+
+Copper:
+- 2L: 1 oz outer layers
+- 4L: 1 oz outer / 0.5 oz inner
+- 6L: 1 oz outer / 0.5 oz inner
+
+Generic dielectric model:
+- FR-4
+- nominal Dk = 4.3
+
+These files are NOT controlled-impedance fabrication stackups.
+
+
+IMPORTANT
+=========
+THIS VALIDATION IS ONLY AN INTERNAL ARITHMETIC / TEMPLATE CHECK.
+IT IS NOT A FABRICATION APPROVAL, DFM APPROVAL, IMPEDANCE GUARANTEE,
+SAFETY APPROVAL, OR MANUFACTURER CERTIFICATION.

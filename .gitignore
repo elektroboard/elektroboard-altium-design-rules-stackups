@@ -1,0 +1,9 @@
+# Altium local/generated files
+History/
+__Previews/
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.LOG
+*.log
+*.DsnWrk
