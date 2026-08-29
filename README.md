@@ -185,3 +185,8 @@ Use `Add and replace matching rules`, then verify all imported rule scopes, prio
 See [`DISCLAIMER.md`](DISCLAIMER.md) for the full engineering and liability disclaimer.
 
 This repository is distributed under the MIT License. See [`LICENSE`](LICENSE).
+
+## Trademark Notice
+
+Altium Designer is a registered trademark of Altium LLC.
+This project is independent and is not affiliated with, endorsed by, or sponsored by Altium LLC.
